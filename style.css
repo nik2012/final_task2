@@ -1,0 +1,64 @@
+.sayt {
+    background-color: rgb(26, 224, 224);
+    height: 500px;
+    width: 80%;
+    margin-left: 150px;
+    border-radius: 6%;
+}
+
+h1 {
+    color: blue;
+    font-size: 3.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 10px 0;
+}
+
+body {
+    background-color: rgb(99, 147, 223);
+}
+
+.form-poll {
+    width: 850px;
+    margin: 10px auto;
+    padding: 20px;
+    background: radial-gradient(55% 45%, aqua, rgb(35, 93, 201));
+    border-radius: 8px;
+    color: aquamarine;
+    box-shadow: 8px 8px 8px -1px grey;
+    text-shadow: 1.5px 1.5px 0 black;
+}
+
+img{
+    height: 300px;
+    width: 370px;
+    margin-left: 25px;
+}
+b{
+    margin-left: 50px;
+}
+.colo{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+.colo:hover{
+    border-radius: 45%;
+}
+
+.square{
+    background-color: yellow;
+    height: 140px;
+    width: 130px;
+    margin: 30px;
+    border-radius: 55%;
+}
+
+.square:hover{
+    border-radius: 0%;
+}
